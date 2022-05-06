@@ -1,19 +1,60 @@
 body {
-  background-color: #f2f4c3;
+  font-family: "Montserrat";
+  text-align: center;
+  background-color: red;
 }
-
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  height: 5px;
-  width: 5%;
-}
-
 h1 {
-  color: #21094e;
+  text-align: center;
+font-family: "Montserrat-Bold";
 }
 
-h3 {
-  color: #e1701a;
+h5 {
+text-color: #fff;
+padding: 3% 3%;
+}
+
+
+/*Title Section */
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+
+.container-fluid {
+padding: 5% 7%;
+}
+
+img {
+  padding: 7% 5%;
+}
+
+p {
+  color: #8f8f8f;
+
+}
+
+
+/* Achievements Section */
+
+#achievements {
+  padding: 3% 3%;
+  background-color: #fff;
+  text-align: center;
+}
+
+/* Experience Section */
+
+#experience {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  margin: auto;
+}
+
+#table {
+  padding: 3% 3%;
+  text-align: left;
+margin-left: 30%;
 }
